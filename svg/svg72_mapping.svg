@@ -1,0 +1,1341 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1710"
+height="1020"
+viewBox="0 0 1710 1020">
+
+
+<style>
+text {
+    font-family:Arial;
+    font-size:28px;
+}
+
+.label {
+    font-size:12px;
+    fill:#004080;
+}
+
+.grid {
+    fill:none;
+    stroke:#cccccc;
+}
+
+.origin {
+    fill:red;
+}
+</style>
+
+<text class="label" x="175.0" y="20" text-anchor="middle">upperLeft</text>
+<text class="label" x="345.0" y="20" text-anchor="middle">upperCenter</text>
+<text class="label" x="515.0" y="20" text-anchor="middle">upperRight</text>
+<text class="label" x="685.0" y="20" text-anchor="middle">centerLeft</text>
+<text class="label" x="855.0" y="20" text-anchor="middle">centerCenter</text>
+<text class="label" x="1025.0" y="20" text-anchor="middle">centerRight</text>
+<text class="label" x="1195.0" y="20" text-anchor="middle">lowerLeft</text>
+<text class="label" x="1365.0" y="20" text-anchor="middle">lowerCenter</text>
+<text class="label" x="1535.0" y="20" text-anchor="middle">lowerRight</text>
+<text class="label" x="5" y="75">R0</text>
+
+<g transform="translate(175.0,125.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(345.0,125.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(515.0,125.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(685.0,125.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(855.0,125.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1025.0,125.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1195.0,125.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1365.0,125.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1535.0,125.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+<text class="label" x="5" y="185">R90</text>
+
+<g transform="translate(175.0,235.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(345.0,235.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(515.0,235.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(685.0,235.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(855.0,235.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1025.0,235.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1195.0,235.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1365.0,235.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1535.0,235.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+<text class="label" x="5" y="295">R180</text>
+
+<g transform="translate(175.0,345.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(345.0,345.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(515.0,345.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(685.0,345.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(855.0,345.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1025.0,345.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1195.0,345.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1365.0,345.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1535.0,345.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+<text class="label" x="5" y="405">R270</text>
+
+<g transform="translate(175.0,455.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(345.0,455.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(515.0,455.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(685.0,455.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(855.0,455.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1025.0,455.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1195.0,455.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1365.0,455.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1535.0,455.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+<text class="label" x="5" y="515">MX</text>
+
+<g transform="translate(175.0,565.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(345.0,565.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(515.0,565.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(685.0,565.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(855.0,565.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1025.0,565.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1195.0,565.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1365.0,565.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1535.0,565.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+<text class="label" x="5" y="625">MY</text>
+
+<g transform="translate(175.0,675.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(345.0,675.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(515.0,675.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="hanging">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(685.0,675.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(855.0,675.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1025.0,675.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="middle">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1195.0,675.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1365.0,675.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1535.0,675.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="alphabetic">AgjpQy</text>
+
+</g>
+
+<text class="label" x="5" y="735">MXR90</text>
+
+<g transform="translate(175.0,785.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(345.0,785.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(515.0,785.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(685.0,785.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(855.0,785.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1025.0,785.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1195.0,785.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1365.0,785.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1535.0,785.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+<text class="label" x="5" y="845">MYR90</text>
+
+<g transform="translate(175.0,895.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(345.0,895.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(515.0,895.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="hanging" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(685.0,895.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(855.0,895.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1025.0,895.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="middle" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1195.0,895.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="end" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1365.0,895.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="middle" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+
+<g transform="translate(1535.0,895.0)">
+
+<rect class="grid"
+      x="-70"
+      y="-45"
+      width="140"
+      height="90"/>
+
+<circle class="origin"
+        cx="0"
+        cy="0"
+        r="2.8"/>
+
+<text x="0" y="0" text-anchor="start" dominant-baseline="alphabetic" transform="rotate(-90,0,0)">AgjpQy</text>
+
+</g>
+
+</svg>
